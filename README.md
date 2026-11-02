@@ -1,12 +1,9 @@
 # Contact Book
-
-
 A clean, dependency-free desktop contact manager built with Python, Tkinter,
 and SQLite. Add, search, update, and delete contacts while keeping everything
 stored safely in a local database.
 
 ## Features
-
 - Desktop interface with a searchable contact list and detail form
 - Add, view, update, and delete contacts
 - Search across name, phone, email, company, address, and notes
@@ -18,7 +15,6 @@ stored safely in a local database.
 - Unit tests for the data layer using Python's built-in `unittest`
 
 ## Requirements
-
 - Python 3.10 or newer
 - Tkinter, which is included with the standard Windows and macOS Python
   installers. On Linux, install the `python3-tk` package if needed.
