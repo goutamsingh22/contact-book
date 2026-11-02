@@ -1,5 +1,6 @@
 # Contact Book
 
+
 A clean, dependency-free desktop contact manager built with Python, Tkinter,
 and SQLite. Add, search, update, and delete contacts while keeping everything
 stored safely in a local database.
@@ -136,5 +137,7 @@ Invalid input raises `ValidationError`. Unique conflicts raise
 ```powershell
 python -m unittest discover -v
 ```
+
+
 
 The tests use temporary database files, so your `contacts.db` is never modified.
