@@ -74,7 +74,7 @@ contact-book/
 ```
 
 ## Database schema
-
+this is pure schema
 The data layer creates this table and its indexes automatically:
 
 ```sql
